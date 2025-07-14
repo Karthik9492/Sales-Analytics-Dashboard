@@ -25,7 +25,9 @@ used this field to compute: Average delivery time KPI
 This dashboard is powered by a dataset originally used in my SQL Sales Analysis Project — where I explored, cleaned, and analyzed transactional sales data using MySQL.
 
 📂 GitHub Dataset Link: 👉 https://github.com/Karthik9492/Sales-Analysis-with-Database-and-MYSQL/tree/main/Global%2BElectronics%2BRetailer 
+
 ## 🖼️ Dashboard Preview
+Tableau Public: https://public.tableau.com/views/Dashboard_17519996788120/SalesAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![Sales Analytics Dashboard ](https://github.com/user-attachments/assets/aacda868-aa17-49d4-9762-1637143ef203)
 
