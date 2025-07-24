@@ -1,4 +1,4 @@
-# Sales Analytics Dashboard
+# Sales Analytics Dashboard - Tableau
 This project showcases a **Sales Analytics Dashboard** built in **Tableau**, powered by insights derived from SQL-based analysis on a structured relational database. The dashboard highlights key performance indicators (KPIs), product performance, customer behavior, and geographic trends based on multi-level SQL queries.
 ## 🚀 Project Overview
 The primary goal of this project is to analyze and visualize business data across **sales, customers, products, and stores** to drive strategic insights.
